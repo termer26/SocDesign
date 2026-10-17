@@ -1,0 +1,257 @@
+{
+  "source": "G:\\0_TEMP\\6_eda\\workspace",
+  "destination": "G:\\0_TEMP\\6_eda\\workspace2",
+  "file_count": 50,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 40,
+      "sha256": "c1d162ddc531f3ac42aa7990aadd3d6cea434ee91bc652a565d6eaf2c0aa5d7b"
+    },
+    {
+      "path": "benchmark_contest.py",
+      "bytes": 4409,
+      "sha256": "69701d0a454787f00b0677a9669bf557de86ffde9419ab47f704498daab22f79"
+    },
+    {
+      "path": "benchmark_thermal.py",
+      "bytes": 8110,
+      "sha256": "1478c7dc128742f32b341c58f74da396b79182711cc447c7af325214a1a0d80f"
+    },
+    {
+      "path": "build_contest.sh",
+      "bytes": 697,
+      "sha256": "d628b9b36efe86a65df8604ae0a9b743603df782c0c5b16d7d21b79abc699f30"
+    },
+    {
+      "path": "CMakeLists.txt",
+      "bytes": 4006,
+      "sha256": "607d5e30cf1abafa0e4d6162b0e3da9918484ea8304d0bd9a47cd5b1291d6bdb"
+    },
+    {
+      "path": "CONTEST.md",
+      "bytes": 22292,
+      "sha256": "30c29aabe151882c0c2c4f21e1abd006fc3a8f7cacb691037573ff83fcf91626"
+    },
+    {
+      "path": "README.md",
+      "bytes": 15093,
+      "sha256": "bd904352d6dbb03b4fc6f5ca6693623bfbb46684a6ee96e68afe75b8bccbc510"
+    },
+    {
+      "path": "run_contest.sh",
+      "bytes": 325,
+      "sha256": "f0e83d89991f3ca592119d401128732f06171e9dd347a6eff8bf28b4639715ac"
+    },
+    {
+      "path": "include/router/astar.hpp",
+      "bytes": 387,
+      "sha256": "c5559863ae57c08b32a8fba256af646bae0d87ba9c50d08678b803e30be17b68"
+    },
+    {
+      "path": "include/router/contest_guide.hpp",
+      "bytes": 606,
+      "sha256": "ffff626711bad67ce545dcce711e0c69ec21a5c00bdcb0208b3f153fe14c5471"
+    },
+    {
+      "path": "include/router/contest_resources.hpp",
+      "bytes": 2398,
+      "sha256": "b0dcaa7a1af20ea4ce095df25454b127179f3fb2a82317ff95c0372cc1231e55"
+    },
+    {
+      "path": "include/router/contest_router.hpp",
+      "bytes": 1165,
+      "sha256": "a8ad19ca0fa5c1a2815678f1e440fe11f92c03ad6439d032eddf9f25ba160329"
+    },
+    {
+      "path": "include/router/contest_topology.hpp",
+      "bytes": 1957,
+      "sha256": "51623082d209cb044659aacb1a85254e7cbf6b22a7bd48545728ff19cf4644b0"
+    },
+    {
+      "path": "include/router/contest_tree_distance.hpp",
+      "bytes": 4039,
+      "sha256": "e0c8547531e501014cd932214d0829fe5f5bc4d2ad9c4cf3eb3fb21bf4dc2faa"
+    },
+    {
+      "path": "include/router/def_parser.hpp",
+      "bytes": 170,
+      "sha256": "298a122ea9009bda0e73aaa8870c4b9632dc9dca2c959322056a0620ff2c1016"
+    },
+    {
+      "path": "include/router/def_writer.hpp",
+      "bytes": 372,
+      "sha256": "4cc1414c5c310279e2b68582019a77267c6179cf4055f16f7979ffaa5b2aad0c"
+    },
+    {
+      "path": "include/router/gcell_grid.hpp",
+      "bytes": 2973,
+      "sha256": "eb85b9e7e2f0d7ae10592abe3dee09505d75e541f563be197463664cd92eaa00"
+    },
+    {
+      "path": "include/router/lef_parser.hpp",
+      "bytes": 173,
+      "sha256": "0e17e48be4fba56261a915d696c51c58f8525ce1c67003a6b29f56e7afd8832a"
+    },
+    {
+      "path": "include/router/net_router.hpp",
+      "bytes": 404,
+      "sha256": "9ebd18590f823c3ebdae3a200bf2fa1eabbfd5c08b51d59fea09124be307cea0"
+    },
+    {
+      "path": "include/router/pin_resolver.hpp",
+      "bytes": 600,
+      "sha256": "952b465833373faded154cdd583f6b9e5223b191849a613537cfe2d83fcb989e"
+    },
+    {
+      "path": "include/router/tokenizer.hpp",
+      "bytes": 907,
+      "sha256": "7d82e41f4de4ddb38921daedbc98c51f633366bce76a40a5cc570c37b2dcc0a9"
+    },
+    {
+      "path": "include/router/types.hpp",
+      "bytes": 3292,
+      "sha256": "8adf7e77eecc32f5ee7e25f46db786fb7e27726a2e7f141e35cda232149007c4"
+    },
+    {
+      "path": "src/astar.cpp",
+      "bytes": 3278,
+      "sha256": "91c956025177faaad15b1e9897739b98af04b32912710b5c729f6613b5d33b7a"
+    },
+    {
+      "path": "src/contest_guide.cpp",
+      "bytes": 12629,
+      "sha256": "91cb3f55d10019ad7b2dc77e2ec74203319dada889bac48601fbb7e9155cc274"
+    },
+    {
+      "path": "src/contest_main.cpp",
+      "bytes": 25241,
+      "sha256": "8d5114c5957bcb4c0ce3fa5560fbb6a2caa42f958e75af0960a07695c76f1aad"
+    },
+    {
+      "path": "src/contest_resources.cpp",
+      "bytes": 36725,
+      "sha256": "aa665e9efb77fdd7721a6e37d4a205296f9b67dae425dd0252a7fd17bbd9a3ff"
+    },
+    {
+      "path": "src/contest_router.cpp",
+      "bytes": 40844,
+      "sha256": "6bb2c0941b325400c8a0730ff3b83913c3ffcda3cb8a5650d710e4ff4f05eaf9"
+    },
+    {
+      "path": "src/def_parser.cpp",
+      "bytes": 8351,
+      "sha256": "3ce6fa282d1e91704c0f91656d7d54ecda02b83c13fad39df2913e762cbf09ce"
+    },
+    {
+      "path": "src/def_writer.cpp",
+      "bytes": 4525,
+      "sha256": "6dd7c78fee30dafd2b70dcfe42c973f1fda4c45e155d91b3798b47936d1755ef"
+    },
+    {
+      "path": "src/gcell_grid.cpp",
+      "bytes": 12263,
+      "sha256": "b10bfb071eb488e7866edd12bae24d4529415547ce3b96387159129c374f1f23"
+    },
+    {
+      "path": "src/lef_parser.cpp",
+      "bytes": 6165,
+      "sha256": "8868175ffab1d134c48d43a6b22fbdb898b290bbd3d06010558d869648b66272"
+    },
+    {
+      "path": "src/main.cpp",
+      "bytes": 5201,
+      "sha256": "d96e1b6c608928a5b88b38c2721ee095a5f5b821ec353cdcfd4eded540da77ee"
+    },
+    {
+      "path": "src/net_router.cpp",
+      "bytes": 4658,
+      "sha256": "6e895121d0bdd4bcb0118e4e780260d76ec86617f1d80029c02ad906e7049710"
+    },
+    {
+      "path": "src/pin_resolver.cpp",
+      "bytes": 6557,
+      "sha256": "0f5be3c5f5bd3f83e84b504cf33971e574673d9443c149905d53f1efe9c11424"
+    },
+    {
+      "path": "src/tokenizer.cpp",
+      "bytes": 3222,
+      "sha256": "747a9898634439817fae35752016f1f4e2940515bd5cf4afafab24f279f6ac0c"
+    },
+    {
+      "path": "tests/contest_cli_tests.py",
+      "bytes": 5490,
+      "sha256": "bf3d1ff05e43db4eb2c53031a5637a23776d8c96f3953dd43407625041272fb7"
+    },
+    {
+      "path": "tests/contest_guide_tests.cpp",
+      "bytes": 13909,
+      "sha256": "af62f0021a639da53ad7587b3029ac762868a2b870b37a8a434524fd0d9fc801"
+    },
+    {
+      "path": "tests/contest_pin_probe.cpp",
+      "bytes": 22294,
+      "sha256": "08ff09a17d5eb51d0658fc48dbc31a5881382a6545af3d6fa20e994967e800a1"
+    },
+    {
+      "path": "tests/contest_resources_tests.cpp",
+      "bytes": 19050,
+      "sha256": "d5c19c8cbfab722d0b5fba1084fc55d67ed41a0801f8c38155f43b0c83d9b563"
+    },
+    {
+      "path": "tests/contest_search_tests.cpp",
+      "bytes": 28021,
+      "sha256": "0516502d85f6f2b3194266a20554d2c4b70b1267f65ed82095f9f6ba7c2e5264"
+    },
+    {
+      "path": "tests/contest_thermal_check.cpp",
+      "bytes": 3951,
+      "sha256": "02e8085d04e539cd4fbbc67962311508d212b26d7eeaea14d205987fa8cdca8d"
+    },
+    {
+      "path": "tests/router_tests.cpp",
+      "bytes": 17311,
+      "sha256": "1770cebaf26fa38aa86d9d6a76180b0d53de811f5c8dbf6d5e2ec6b1a14d814c"
+    },
+    {
+      "path": "tests/validate_contest_openroad.py",
+      "bytes": 8497,
+      "sha256": "9c167c45eb7ad6253b1eb96205bf25c018d3222737d09c77baaf72cbb5f1199f"
+    },
+    {
+      "path": "tests/validate_openroad.py",
+      "bytes": 9548,
+      "sha256": "69ae860ac270fe7213d64ac4e69fe4092f5e9ab92126e37324a6fa967ce722be"
+    },
+    {
+      "path": "tests/fixtures/tiny.def",
+      "bytes": 1455,
+      "sha256": "b2a6a49deb80c7c621e0a02dd8d9ddbf4676c40aeed07ab652418b832b0b1033"
+    },
+    {
+      "path": "tests/fixtures/tiny.lef",
+      "bytes": 1157,
+      "sha256": "47455a9b105a8f7ba11323c9beb3467125b37d5b71539429651ec501240e40d8"
+    },
+    {
+      "path": "tests/fixtures/sample001/sample001.input.def",
+      "bytes": 44873,
+      "sha256": "cbe96625a17b1a6a51577d2aa0489a89b737193130214f74064b4cd50f14f9b3"
+    },
+    {
+      "path": "tests/fixtures/sample001/sample001.input.lef",
+      "bytes": 42253,
+      "sha256": "48ead586f5a6c017df4cdb682d6b503fcc4c5a53f93caa9074c6ce20a4b9f834"
+    },
+    {
+      "path": "tests/fixtures/sample001/sample001.thermal.input.json",
+      "bytes": 240529,
+      "sha256": "14acf216cf23f9f71d1d19c3a5ba58a9f205075390d37a1f215088f0e7641836"
+    },
+    {
+      "path": "tests/__pycache__/contest_cli_tests.cpython-312.pyc",
+      "bytes": 8035,
+      "sha256": "5d80c5674534392fa636548e13e76542a4003d6c55ad2960c25e840e932d1b77"
+    }
+  ]
+}
